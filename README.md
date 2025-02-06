@@ -27,10 +27,10 @@ Xcode ile aç
 Gerçek cihaz veya simülatörde çalıştır
 
 
-**
+Bu proje, Swift ve SceneKit öğrenme sürecimde geliştirdiğim bir çalışmadır. Her türlü öneri ve geri bildirim için bana ulaşabilirsiniz!
+
+```bash
 git clone https://github.com/kullaniciadi/Boeing777-SceneKit.git
 cd Boeing777-SceneKit
 open Boeing777.xcodeproj
-**
 
-Bu proje, Swift ve SceneKit öğrenme sürecimde geliştirdiğim bir çalışmadır. Her türlü öneri ve geri bildirim için bana ulaşabilirsiniz!
