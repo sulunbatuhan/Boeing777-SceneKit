@@ -11,11 +11,6 @@
 ## Kullanılan Teknolojiler
 Swift & SceneKit 🚀
 
-
-## Ekran Görüntüleri
-
-Bu proje, Swift ve SceneKit öğrenme sürecimde geliştirdiğim bir çalışmadır. Her türlü öneri ve geri bildirim için bana ulaşabilirsiniz!
-
 ## İletişim
 💼 LinkedIn: https://www.linkedin.com/in/sulunbatuhan/
 🐦 Twitter: https://www.twitter.com/sulunbatuhan
